@@ -737,7 +737,7 @@ export default function Home() {
 
               {[
                 { name: "Om", role: "Friend / Developer", text: "Vaishnav's eye for detail is unmatched. He doesn't just code; he builds experiences that actually feel alive. Always the go-to person for anything UI related!" },
-                { name: "Rudra B.", role: "Project Partner", text: "Working with Vaishnav is a breeze. His ability to turn complex logic into clean, simple interfaces is what makes his work stand out from the rest. 🚀" }
+                { name: "Sumeet", role: "Project Partner", text: "Working with Vaishnav is a breeze. His ability to turn complex logic into clean, simple interfaces is what makes his work stand out from the rest. 🚀" }
               ].map((t, i) => (
                 <motion.div
                   key={i}
